@@ -10,6 +10,7 @@ update master #1
 
 update mater #2
 
+<<<<<<< HEAD
 update #1
 
 update #2
@@ -19,3 +20,4 @@ update #3
 update #4
 
 update #5 master 
+
